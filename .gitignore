@@ -1,2 +1,6 @@
 .direnv
 .codex
+*.pdf
+*.png
+*.jpg
+*.avif
