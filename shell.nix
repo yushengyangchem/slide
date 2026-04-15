@@ -7,5 +7,6 @@ pkgs.mkShell {
     nixfmt
     prettier
     poppler-utils
+    libxml2
   ];
 }
